@@ -97,8 +97,7 @@ def m3u8_download(url):
         with open("0.m3u8",'wb') as code:
             code.write(r.content)
     else:
-        hdr = {
-       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0 Waterfox/78.10.0"}
+        hdr = {}
                     
     d = GetDesktopPath()
     premain_ = ""
