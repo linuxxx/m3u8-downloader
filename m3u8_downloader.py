@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-
-#author:panda1987cs@gmail.com
 '''
 用于流视频下载器
 先下载m3u8文件
@@ -357,14 +356,7 @@ if __name__ == '__main__':
             os.system('pause')  
     
 
-'''
-https://hls-hw.xvideos-cdn.com/videos/hls/26/1d/57/261d572c7c25296e181a922d1f611e47/hls-1080p-06e8e0.ts?e=1618623691&l=0&h=83125c2bcc19ff7bf820b36161ab3949
 
-https://v.o7w94x.xyz/v/43582a42ae5811a37392e562c3f02686/1000kb/hls/index.m3u8
-'''
-            
-
-        
     
 
         
